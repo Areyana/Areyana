@@ -10,7 +10,7 @@
 <li>
 <b>Name:</b> Areyana</li>
 <li>
-<b>Nationality:</b> Retarded League Of Legends Player
+<b>Nationality:</b> Shadow Isles
 </li>
 <li>
 <b>Hobbys:</b> Programming, Writing, Music
@@ -21,7 +21,7 @@
 <li>
 <b>Working:</b> Elinext
 </li>
-               <br><br>
+               <br><br><br>
     <h3 align="center"> ☁・.・.・☁ .・。.・゜☁・.・☁・゜・。..・。.・゜☁・.・☁・゜.・。☁・.・</h3>
 </div>
 <br>
