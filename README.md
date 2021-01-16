@@ -33,8 +33,8 @@
 <div>
 <p align="center"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin%20-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Lua%20-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/><img src="https://img.shields.io/badge/Csharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/Bash%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/><br>
-  <br><br>
+   <img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/><img src="https://img.shields.io/badge/Csharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/Bash%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <br>
   <p>
   I'm fond of writing tech articles on my <span><a href="https://medium.com/@areyana">Medium</a></span> channel. I'm also good at League of Legends, which I play most of my free time.
   </p>
