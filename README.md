@@ -22,7 +22,7 @@
 <b>Working:</b> Elinext
 </li>
                <br><br>
-    <h3 align="center"> ☁・.・.・☁ .・。.・゜☁・.・☁・゜・。..・。.・゜☁・.・☁・゜.・。</h3>
+    <h3 align="center"> ☁・.・.・☁ .・。.・゜☁・.・☁・゜・。..・。.・゜☁・.・☁・゜.・。☁・.・</h3>
 </div>
 <br>
 <div>
@@ -38,7 +38,7 @@
   <p>
   I'm fond of writing tech articles on my <span><a href="https://medium.com/@areyana">Medium</a></span> channel. I'm also good at League of Legends, which I play most of my free time.
   </p>
-    <h3 align="center"> ☁・.・.・☁ .・。.・゜☁・.・☁・゜・。..・。.・゜☁・.・</h3>
+    <h3 align="center"> ☁・.・.・☁ .・。.・゜☁・.・☁・゜・。..・。.・゜</h3>
 </p>
 <br>
 <div>
