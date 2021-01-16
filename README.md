@@ -37,6 +37,7 @@
   <br><br>
   <p>
   I'm fond of writing tech articles on my <span><a href="https://medium.com/@areyana">Medium</a></span> channel. I'm also good at League of Legends, which I play most of my free time.
+          <h3 align="center"> ☁・.・.・☁ .・。.・゜☁・.・☁・゜・。..・。.・゜☁・.・</h3>
   </p>
 </p>
 <br>
