@@ -35,8 +35,8 @@
 <div>
 <p align="center"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
   <br><br>
-  <p style="display: inline-block">
-  I'm fond of writing tech articles on my <p><a href="https://medium.com/@areyana">Medium</a></p> channel. I'm also good at League of Legends, which I play most of my free time.
+  <p>
+  I'm fond of writing tech articles on my <span><a href="https://medium.com/@areyana">Medium</a></span> channel. I'm also good at League of Legends, which I play most of my free time.
   </p>
 </p>
 <br>
