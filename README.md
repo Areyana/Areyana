@@ -1,11 +1,11 @@
 <body>
-<h1 align="center"> 💛 What is your secret desire ? 💛 </h1>
+<h1 align="center"> 🌻 flower apathy ? 🌻 </h1>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/xkcMu3I.jpg">
 </div>
     <div>
-        <h2 align="center"> 💛 About me 💛 </h2>
+        <h2 align="center"> 🌻 About me 🌻 </h2>
 <img src="https://i.imgur.com/BThJs3M.jpg" align="right">
 <li>
 <b>Name:</b> Areyana</li>
@@ -52,7 +52,7 @@
 <br>
 </div>
 <div>
-<h2 align="center">💛 Thanks For Reading ! 💛</h2>
+<h2 align="center">🌻 Thanks For Reading ! 🌻</h2>
 <div align="center">
 <img src="https://i.imgur.com/EvZifeO.png">
 </div>
