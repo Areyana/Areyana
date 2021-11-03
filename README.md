@@ -18,9 +18,6 @@
  <li>
 <b>Loves:</b> Anime, Games, Manga, Light Novels, Ranobes
 </li>
-<li>
-<b>Working:</b> Elinext
-</li>
                <br><br><br>
     <h3 align="center"> ☁・.・.・☁ .・。.・゜☁・.・☁・゜・。..・。.・゜☁・.・☁・゜.・。☁・.・</h3>
 </div>
