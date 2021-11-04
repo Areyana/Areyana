@@ -33,7 +33,7 @@
    <img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/><img src="https://img.shields.io/badge/Csharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/Bash%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <br>
   <p>
-  I'm fond of writing tech articles on my <span><a href="https://medium.com/@areyana">Medium</a></span> channel. I'm also good at League of Legends, which I play most of my free time.
+  I'm fond of writing tech articles on my <span><a href="https://medium.com/@areyana">Medium</a></span> channel and making data science articles on my <span><a href="https://www.kaggle.com/ilyadziamidovich">Kaggle</a></span>. I'm also good at League of Legends, which I play most of my free time.
   </p>
     <br>
     <h3 align="center">☁・.・.・☁ .・。.・゜☁・.・゜. ・☁゜・.</h3>
