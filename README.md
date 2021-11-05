@@ -10,7 +10,7 @@
 <li>
 <b>Name:</b> Areyana</li>
 <li>
-<b>Nationality:</b> Shadow Isles
+<b>Nationality:</b> Eorzea
 </li>
 <li>
 <b>Hobbys:</b> Programming, Writing, Music
