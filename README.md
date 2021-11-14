@@ -16,7 +16,7 @@
 <b>Hobbys:</b> Programming, Writing, Music
 </li>
  <li>
-<b>Loves:</b> Anime, Games, Manga, Light Novels, Ranobes
+<b>Loves:</b> Anime, Games, Manga, Light Novels, Ranobes, Webtoon
 </li>
                <br><br><br>
     <h3 align="center"> ☁・.・.・☁ .・。.・゜☁・.・☁・゜・。..・。.・゜☁・.・☁・゜.・。☁・.・</h3>
