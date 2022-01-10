@@ -8,7 +8,7 @@
         <h2 align="center"> 🌻 About me 🌻 </h2>
 <img src="https://i.imgur.com/BThJs3M.jpg" align="right">
 <li>
-<b>Name:</b> Areyana</li>
+<b>Name:</b> Areyana Flowers</li>
 <li>
 <b>Nationality:</b> Eorzea
 </li>
