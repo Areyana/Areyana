@@ -40,10 +40,6 @@
 </p>
 <br>
 <div>
-<h2 align="center" style="font-size: 24px">👑 Jam 👑</h2>
-<br>
-</div>
-<div>
 <h2 align="center">🌻 Thanks For Reading ! 🌻</h2>
 <div align="center">
 <img src="https://i.imgur.com/EvZifeO.png">
