@@ -42,11 +42,6 @@
 <div>
 <h2 align="center" style="font-size: 24px">👑 Jam 👑</h2>
 <br>
-<div align="center"><p>
-    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n1tk87dc2jjslkfctx94lhfcl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<br>
-<br>
 </div>
 <div>
 <h2 align="center">🌻 Thanks For Reading ! 🌻</h2>
